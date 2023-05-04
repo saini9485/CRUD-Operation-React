@@ -1,0 +1,21 @@
+.form-container{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+}
+.input{
+    width: 70%;
+    height: 50px;
+    border-radius: 10px;
+}
+.name{
+    margin-bottom: 20px;
+}
+.form-label{
+    margin: 10px;
+}
+.btn{
+    margin-left: 0%;
+}
