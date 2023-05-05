@@ -10,8 +10,8 @@ export function Create() {
 
 const handleSubmit = () =>{
     axios.post("https://mockapi.io/projects/6454180ee9ac46cedf375daf",{
-name:"name",
-email:"email"
+name: "name",
+email: "email"
 
 
     }
